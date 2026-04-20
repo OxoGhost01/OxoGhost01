@@ -4,15 +4,15 @@ You can call me Arlen or Oxo if you want.
 
 I’m a **software developer** who enjoys experimenting, learning by building, and digging into how things work internally.
 
-My interests range across **game-related projects**, **AI experimentation**, and **technical programming topics**, even when projects are still exploratory or in-progress.
+My interests range across **low-level things**, **AI experimentation**, and **technical programming topics**, even when projects are still exploratory or in-progress.
 
 ---
 
-## 📊 GitHub Stats
+[![Poll](https://markpoll.oxoghost.dev/p/01KPP8QRK01FNYR3KPDETBC08J/svg)](https://markpoll.oxoghost.dev/p/01KPP8QRK01FNYR3KPDETBC08J)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OxoGhost&show_icons=true&theme=dark&hide_border=true)
+[![Poll](https://markpoll.oxoghost.dev/p/01KPP8S9P0KK2VKAPNM5JS53HM/svg)](https://markpoll.oxoghost.dev/p/01KPP8S9P0KK2VKAPNM5JS53HM)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxoGhost&layout=compact&theme=dark&hide_border=true)
+[![Poll](https://markpoll.oxoghost.dev/p/01KPP8VGQH7J7WPYMSZQC46PWF/svg)](https://markpoll.oxoghost.dev/p/01KPP8VGQH7J7WPYMSZQC46PWF)
 
 ---
 
