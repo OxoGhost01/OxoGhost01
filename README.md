@@ -12,6 +12,8 @@ My interests range across **low-level things**, **AI experimentation**, and **te
 [![Poll](https://markpoll.oxoghost.dev/p/01KPP8S9P0KK2VKAPNM5JS53HM/svg)](https://markpoll.oxoghost.dev/p/01KPP8S9P0KK2VKAPNM5JS53HM)
 [![Poll](https://markpoll.oxoghost.dev/p/01KPP8VGQH7J7WPYMSZQC46PWF/svg)](https://markpoll.oxoghost.dev/p/01KPP8VGQH7J7WPYMSZQC46PWF)
 
+> BTW, you can create theses polls for free at [markpoll.oxoghost.dev](https://markpoll.oxoghost.dev), a tool of my creation ;)
+
 ---
 
 ## 📫 Contact
