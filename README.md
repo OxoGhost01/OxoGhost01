@@ -19,7 +19,6 @@ My interests range across **low-level things**, **AI experimentation**, and **te
 ## 📫 Contact
 
 - 🌐 Portfolio: https://oxoghost.dev/
-- 💬 Discord: **arlen_ghost**
 - 🐙 GitHub: you're already here, don't forget to leave some stars ;)
 
 ---
