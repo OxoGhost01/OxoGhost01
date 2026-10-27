@@ -26,7 +26,7 @@ I'm a CS student in Paris who likes understanding how computers actually work, l
 
 ## 🤖 On using AI
 
-I use Claude when I code, and I'm upfront about it.
+Yes, I use Claude when I code, and I'm upfront about it.
 
 My rule is simple: the engineering stays mine. I design the architecture, choose the stack, and review every line that comes back. AI is a fast translator from a well-defined design to working code; it lets me build things I could write myself, in a fraction of the time. If I can't explain what a piece of code does and why, it doesn't get merged.
 
